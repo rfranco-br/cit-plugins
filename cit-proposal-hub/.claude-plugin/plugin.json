@@ -1,0 +1,20 @@
+{
+  "name": "cit-proposal-hub",
+  "version": "1.1.0",
+  "description": "Author HTML presentation decks that upload cleanly into the CI&T Proposal Hub. Bundles the official structure, brand tokens (coral/navy/sky/burgundy/pink), Inter typography, and pre-upload checklist as a Claude skill.",
+  "author": {
+    "name": "Beto",
+    "email": "robertopillonfranco@gmail.com"
+  },
+  "keywords": [
+    "ci&t",
+    "cit",
+    "proposal-hub",
+    "presentation",
+    "slides",
+    "deck",
+    "html",
+    "branding"
+  ],
+  "skills": ["cit-proposal-deck"]
+}
